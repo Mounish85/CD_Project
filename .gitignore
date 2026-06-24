@@ -1,0 +1,15 @@
+# Compiler build artifacts
+lex.yy.c
+lexer.exe
+lexer
+
+# Node and React artifacts
+node_modules/
+dist/
+.env
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
